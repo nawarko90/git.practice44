@@ -9,4 +9,3 @@ public class TestCase003 {
 
     // this is my combined result
 }
-// this is changes from local intellij
